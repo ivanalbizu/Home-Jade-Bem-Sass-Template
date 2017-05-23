@@ -1693,6 +1693,10 @@ body {
   border-bottom: 4px solid #60b2ca;
 }
 
+.post-entry img {
+  width: 100%;
+}
+
 .post-entry .featured-post {
   position: absolute;
   width: 100%;

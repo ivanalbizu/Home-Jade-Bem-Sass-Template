@@ -32,6 +32,9 @@ body {
     page-break-inside: avoid;
     break-inside: avoid-column;
     border-bottom: 4px solid $color-border-1;
+    img {
+        width: 100%;
+    }
     .featured-post {
         position: absolute;
         width: 100%;
